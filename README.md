@@ -14,7 +14,7 @@ Before proceeding, ensure you have Docker installed on your machine. If not, dow
    Start by cloning the repository to your desired location on your computer.
 
    ```
-   git clone <REPOSITORY_URL>
+   git clone  https://github.com/abdallahsultan/ExabTestDev.git
    ```
 
 2. **Setup Environment File**
